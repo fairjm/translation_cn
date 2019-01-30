@@ -1,4 +1,5 @@
 原文链接:  [https://www.rubberducking.com/2018/05/the-various-kinds-of-io-blocking-non.html](https://www.rubberducking.com/2018/05/the-various-kinds-of-io-blocking-non.html)
+作者: [Rubber Ducking](https://www.blogger.com/profile/15503004383957399868)
 
 各个类型的IO -  阻塞, 非阻塞,多路复用和异步
 
