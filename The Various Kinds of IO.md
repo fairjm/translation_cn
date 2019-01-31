@@ -1,5 +1,5 @@
 原文链接: [https://www.rubberducking.com/2018/05/the-various-kinds-of-io-blocking-non.html](https://www.rubberducking.com/2018/05/the-various-kinds-of-io-blocking-non.html)  
-作者: [Rubber Ducking](https://www.blogger.com/profile/15503004383957399868)
+作者: [Didier A.](https://www.blogger.com/profile/15503004383957399868)
 
 我发现对于软件程序员来说很难分清楚各种类型的IO.对于阻塞,非阻塞,多路复用和异步IO有很多的混淆点.  
 所以我想尝试解释清楚各种IO类型意味着什么
